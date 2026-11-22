@@ -33,3 +33,8 @@ Microsoft Copilot<br>
 <br>
 <p><strong> Resume </strong></p>
 
+<p><strong> Screenshots </strong></p>
+
+![Homepage](screenshots/GitHub Website Screenshot 1.jpeg)
+![Projects](screenshots/GitHub Website Screenshot 2.jpeg)
+![Skills](screenshots/GitHub Website Screenshot 3.jpeg)
