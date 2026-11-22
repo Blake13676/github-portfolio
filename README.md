@@ -38,3 +38,6 @@ Microsoft Copilot<br>
 homepage.jpeg<br>
 projects.jpeg<br>
 skills.jpeg<br>
+
+<p><strong> Professional Resume </strong></p>
+Professional Resume.pdf<br>
