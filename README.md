@@ -35,6 +35,6 @@ Microsoft Copilot<br>
 
 <p><strong> Screenshots </strong></p>
 
-homepage.jpeg
-projects.jpeg
-skills.jpeg
+homepage.jpeg<br>
+projects.jpeg<br>
+skills.jpeg<br>
