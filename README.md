@@ -35,6 +35,6 @@ Microsoft Copilot<br>
 
 <p><strong> Screenshots </strong></p>
 
-![Homepage](GitHub Website Screenshot 1.jpeg)
-![Projects](GitHub Website Screenshot 2.jpeg)
-![Skills](GitHub Website Screenshot 3.jpeg)
+homepage
+projects
+skills
