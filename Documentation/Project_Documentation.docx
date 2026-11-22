@@ -1,1 +1,20 @@
+Study Question Generator
 
+Description:
+A Python application that generates study questions
+based on a user-selected topic.
+
+Technologies:
+- Python
+- ChatGPT
+- Microsoft Copilot
+
+Features:
+- User input
+- Question generation
+- Multiple study topics
+
+Lessons Learned:
+- Python programming
+- Conditional statements
+- AI-assisted development
