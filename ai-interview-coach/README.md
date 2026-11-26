@@ -3,7 +3,7 @@
 <p><strong> Overview </strong></p>
 An application that helps users prepare for job interviews.
 
-<p><strong> ##Features: </strong></p>
+<p><strong> Features: </strong></p>
 
 -Role selection<br>
 -Question generation<br>
