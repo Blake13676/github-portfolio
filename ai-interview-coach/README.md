@@ -14,6 +14,7 @@ An application that helps users prepare for job interviews.
 2. Open the project folder.<br>
 3. Open index.html in a web browser.<br>
 
+
 <p><strong> Usage: </strong></p>
   
 1.Select role<br>
