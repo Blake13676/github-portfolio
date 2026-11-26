@@ -5,22 +5,22 @@ Many job seekers lack interview practice and feedback.<br>
 
 <p><strong> Objectives: </strong></p>
 
-Generate interview questions<br>
-Evaluate answers<br>
-Improve interview skills<br>
+-Generate interview questions<br>
+-Evaluate answers<br>
+-Improve interview skills<br>
 
 <p><strong> System Features:  </strong></p>
 
-Role selection<br>
-Question generation<br>
-Answer feedback<br>
+-Role selection<br>
+-Question generation<br>
+-Answer feedback<br>
 
 <p><strong> Technology Stack: </strong></p>
 
-HTML<br>
-CSS<br>
-JavaScript<br>
-GitHub<br>
+-HTML<br>
+-CSS<br>
+-JavaScript<br>
+-GitHub<br>
 
 <p><strong> Timeline </strong></p>
 
