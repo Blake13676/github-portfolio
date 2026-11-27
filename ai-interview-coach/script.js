@@ -42,7 +42,7 @@ function evaluateAnswer() {
 
     let feedback = "";
 
-    if (answer.length < 50) {
+    if (answer.length < 30) {
         feedback =
             "Try providing more detail.";
     } else {
