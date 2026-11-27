@@ -1,37 +1,47 @@
-<link rel="stylesheet" href="style.css">
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Interview Coach</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
 <body>
 
-<div class="container">
+    <div class="container">
 
-    <h1>AI Interview Coach</h1>
+        <h1>AI Interview Coach</h1>
 
-    <label>Select Interview Type:</label>
+        <label>Select Interview Type:</label>
 
-    <select id="jobRole">
-        <option>Software Developer</option>
-        <option>Network Administrator</option>
-        <option>IT Support Specialist</option>
-    </select>
+        <select id="jobRole">
+            <option>Software Developer</option>
+            <option>Network Administrator</option>
+            <option>IT Support Specialist</option>
+        </select>
 
-    <button onclick="generateQuestion()">
-        Generate Question
-    </button>
+        <button onclick="generateQuestion()">
+            Generate Question
+        </button>
 
-    <h2 id="question"></h2>
+        <h2 id="question"></h2>
 
-    <textarea
-        id="answer"
-        placeholder="Type your answer here...">
-    </textarea>
+        <textarea
+            id="answer"
+            placeholder="Type your answer here..."></textarea>
 
-    <button onclick="evaluateAnswer()">
-        Get Feedback
-    </button>
+        <button onclick="evaluateAnswer()">
+            Get Feedback
+        </button>
 
-    <div id="feedback"></div>
+        <div id="feedback"></div>
 
-</div>
+    </div>
 
-<script src="script.js"></script>
+    <script src="script.js"></script>
 
 </body>
+
+</html>
